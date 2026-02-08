@@ -1,0 +1,1 @@
+import{importShared as a}from"./__federation_fn_import-eoakS9EZ.js";import{j as c}from"./jsx-runtime-BjG_zV1W.js";const p=await a("react"),{useState:g}=p;function j({src:r,alt:o,fallbackSrc:t,className:e,onClick:m,...s}){const[n,i]=g(r);return c.jsx("img",{src:n,alt:o,onClick:m,className:e,onError:()=>t&&i(t),...s})}export{j as I};
